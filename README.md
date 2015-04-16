@@ -6,6 +6,9 @@ Get your external IP address, GeoIP based on that address, and checks if Tor is 
 
 Works with proxychains
 
+
 Usage:
+
 chmod +x ip-info.sh
+
 ./ip-info.sh
