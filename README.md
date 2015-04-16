@@ -1,11 +1,8 @@
-ip-info
-
 The goal of this project is to be able to get all query-able info about your current IP or an IP given as an argument.
-
 
 Currently finished:
 
-Gets your external IP address, GeoIP based on that address, and checks if Tor is being used.
+Get your external IP address, GeoIP based on that address, and checks if Tor is being used.
 
 Works with proxychains
 
